@@ -25,16 +25,6 @@ This project is a simple web application that allows users to find restaurants n
 - **JavaScript (ES6)** – Geolocation, API fetch, and dynamic DOM rendering.
 - **OpenStreetMap Overpass API** – To fetch restaurant data.
 
-## Folder Structure
-
-project-root/
-│
-├─ index.html # Main HTML page
-├─ css/
-│ └─ style.css # Styles for the webpage
-├─ js/
-│ └─ script.js # JavaScript functionality for fetching and displaying restaurants
-
 ## How to Use
 
 1. Open `index.html` in a web browser.
